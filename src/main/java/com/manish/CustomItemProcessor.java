@@ -1,4 +1,4 @@
-package com.mkyong;
+package com.manish;
 
 import org.springframework.batch.item.ItemProcessor;
 
