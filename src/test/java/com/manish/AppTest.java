@@ -1,4 +1,4 @@
-package com.mkyong;
+package com.manish;
 
 import static org.junit.Assert.assertEquals;
 
