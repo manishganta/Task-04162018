@@ -1,4 +1,4 @@
-package com.mkyong;
+package com.manish;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
